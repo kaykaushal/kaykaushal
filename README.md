@@ -1,4 +1,58 @@
-## Hi there 👋
+## 👋 Hi there, I'm Kaushal! 
+
+🚀 CTO | AI/ML & Geospatial Intelligence Expert | Remote Sensing | Data & Platform Engineer
+
+📍 India & Remote | 🌍 Open to global opportunities  
+📫 Email: kaushal.gsds@gmail.com.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/kaykaushal/) | [GitHub](https://github.com/kaykaushal)
+
+---
+
+### 🦊 About Me 
+Blending 12+ years of experience in **AI/ML, Remote Sensing, Data Engineering**, and **Startup Leadership**, I build scalable platforms and intelligent systems that solve real-world challenges in **sustainibility, climate, mobility, and sports**.
+
+### 🌟 Professional Highlights
+
+- 🧠 **CTO & Founder – One7Sports**  
+  Built and launched a real-time sports booking and analytics platform from scratch, leading app development, DevOps, and analytics stack.
+
+- 🌱 **Lead Data Engineer – Sporty Group**  
+  Architected scalable data pipelines and analytics systems, scaling product from 1 to 7 teams and expanding data coverage from 3 to 20 games.
+
+- 🌍 **Research Fellow – ISRO & IIRS**  
+  Contributed to national-scale remote sensing projects using GIS, satellite imagery, and deep learning for agricultural modeling.
+
+- ✈️ **AI Researcher – Michelin R&D**  
+  Developed an AI platform for connected tires combining physics-based and ML models; awarded for digital innovation.
+
+### 🧰 Tech Toolbox
+
+**Languages**: Python, JavaScript, SQL, C++, Bash  
+**Frameworks**: PyTorch, TensorFlow, Scikit-learn, Lightning, LangChain, Hugging Face  
+**MLOps & Data Engineering**: Airflow, dbt, Redshift, Snowflake, Docker, Spark, MLflow, Metabase  
+**GIS & Remote Sensing**: Google Earth Engine, QGIS, ArcGIS, PostGIS, Rasterio, xarray  
+**Product Development**: React Native, Node.js, Express, MongoDB, GitLab CI/CD  
+**Specializations**: Computer Vision, Semantic Segmentation, Time Series Forecasting, GeoAI, Sustainable Agriculture
+
+### 🎓 Education
+
+- MSc. GIS & Earth Observation – University of Twente (NL) & IIRS-ISRO (IN)  
+- B.Tech, Computer Science – GGS Indraprastha University
+
+### 🏅 Certifications & Awards
+
+- 🌟 Innovation Award – Michelin R&D  
+- 📡 ISRO – Vikram Sarabhai Space Science Certification  
+- 📊 Coursera – MLOps, Data Science, Deep Learning  
+- 🛰️ Telangana Crop Health Challenge – Remote Sensing AI Project  
+- 🤖 DrivenData – Kelp Forest Detection (Deep Learning Challenge)
+
+-- 
+### 💬 Let’s Connect
+
+I love building impactful products, mentoring teams, and solving complex problems with technology.  
+Let’s collaborate on AI for **agriculture, sustainability, or sports innovation** – or just say hi! 😊
+
 
 <!--
 **kaykaushal/kaykaushal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
