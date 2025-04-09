@@ -9,7 +9,7 @@
 ---
 
 ### 🦊 About Me 
-Blending 12+ years of experience in **AI/ML, Remote Sensing, Data Engineering**, and **Startup Leadership**, I build scalable platforms and intelligent systems that solve real-world challenges in **sustainibility, climate, mobility, and sports**.
+Blending 10+ years of experience in **AI/ML, Remote Sensing, Data Engineering**, and **Startup Leadership**, I build scalable platforms and intelligent systems that solve real-world challenges in **sustainibility, climate, mobility, and sports**.
 
 ### 🌟 Professional Highlights
 
@@ -51,7 +51,7 @@ Blending 12+ years of experience in **AI/ML, Remote Sensing, Data Engineering**,
 ### 💬 Let’s Connect
 
 I love building impactful products, mentoring teams, and solving complex problems with technology.  
-Let’s collaborate on AI for **agriculture, sustainability, or sports innovation** – or just say hi! 😊
+Let’s collaborate on AI for **sustainability, technology and innovation** – or just say hi! 😊
 
 
 <!--
