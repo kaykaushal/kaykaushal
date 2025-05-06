@@ -13,16 +13,16 @@ Blending 10+ years of experience in **AI/ML, Remote Sensing, Data Engineering**,
 
 ### 🌟 Professional Highlights
 
-- 🧠 **CTO & Founder – One7Sports**  
+- 🧠 **Teach Lead Consulatant – One7Sports**  
   Built and launched a real-time sports booking and analytics platform from scratch, leading app development, DevOps, and analytics stack.
 
 - 🌱 **Lead Data Engineer – Sporty Group**  
-  Architected scalable data pipelines and analytics systems, scaling product from 1 to 7 teams and expanding data coverage from 3 to 20 games.
+  Architected scalable data pipelines and analytics systems, scaling product and expanding data coverage from 3 to 20 games and from 1 to 7 countries.
 
 - 🌍 **Research Fellow – ISRO & IIRS**  
   Contributed to national-scale remote sensing projects using GIS, satellite imagery, and deep learning for agricultural modeling.
 
-- ✈️ **AI Researcher – Michelin R&D**  
+- ✈️ **Lead Data Scientist – Michelin R&D**  
   Developed an AI platform for connected tires combining physics-based and ML models; awarded for digital innovation.
 
 ### 🧰 Tech Toolbox
@@ -32,7 +32,7 @@ Blending 10+ years of experience in **AI/ML, Remote Sensing, Data Engineering**,
 **MLOps & Data Engineering**: Airflow, dbt, Redshift, Snowflake, Docker, Spark, MLflow, Metabase  
 **GIS & Remote Sensing**: Google Earth Engine, QGIS, ArcGIS, PostGIS, Rasterio, xarray  
 **Product Development**: React Native, Node.js, Express, MongoDB, GitLab CI/CD  
-**Specializations**: Computer Vision, Semantic Segmentation, Time Series Forecasting, GeoAI, Sustainable Agriculture
+**Specializations**: Computer Vision, Semantic Segmentation, Time Series Forecasting, GeoAI, Sustainable Agriculture, Climate & Environment Modeling & monitoring
 
 ### 🎓 Education
 
