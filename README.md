@@ -19,7 +19,7 @@ Blending 10+ years of experience in **AI/ML, Remote Sensing, Data Engineering**,
 - 🌱 **Lead Data Engineer – Sporty Group**  
   Architected scalable data pipelines and analytics systems, scaling product and expanding data coverage from 3 to 20 games and from 1 to 7 countries.
 
-- 🌍 **Research Fellow – ISRO & IIRS**  
+- 🌍 **Research Student – ISRO & IIRS**  
   Contributed to national-scale remote sensing projects using GIS, satellite imagery, and deep learning for agricultural modeling.
 
 - ✈️ **Lead Data Scientist – Michelin R&D**  
